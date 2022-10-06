@@ -18,6 +18,9 @@
 
 ![Output](./Pic2.png)
 
+### Solution 
+document.querySelector(".side-bar .crayons-card .crayons-subtitle-2 ").innerHTML = "Puneet";
+
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
 ### Task
